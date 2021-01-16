@@ -1,2 +1,2 @@
 # justjava
-This is a simple java app created at 15-5-2020
+This is a simple java app created  on May 15, 2020
